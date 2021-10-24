@@ -9,3 +9,5 @@ For this exercise the color-space "LAB" is utilized. The L channel is similar to
 The train notebook explains the training process and the test notebook loads the model weights and tests the model on a sample test set. 
 
 Since the model requires to produce more information than present, heavy computation costs are involved including a significant training time. With the limited resources available, a sample output of the model is attached below. 
+
+!(sample image)[sample.png]
