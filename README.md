@@ -1,6 +1,6 @@
 # Image-Colorizer
 
-A neural network coded in PyTorch to color a black and white image. The neural network is an encoder-decoder which allows for variable sizes of input images and is benefitial when the number of outputs is greater than the number of inputs. 
+A neural network coded in PyTorch to color a black and white image. The neural network is an encoder-decoder which allows for variable sizes of input images and is beneficial when the number of outputs is greater than the number of inputs. 
 
 The grayscale image has a single channel explaining the brightness of each pixel. To properly define a colored image we require 3 channels. 
 
