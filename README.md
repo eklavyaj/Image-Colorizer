@@ -10,4 +10,4 @@ The train notebook explains the training process and the test notebook loads the
 
 Since the model requires to produce more information than present, heavy computation costs are involved including a significant training time. With the limited resources available, a sample output of the model is attached below. 
 
-!(sample image)[./sample.png]
+!(sample image)[https://github.com/eklavyaj/Image-Colorizer/blob/master/sample.png]
